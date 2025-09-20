@@ -187,7 +187,7 @@ export default function Navbar() {
                       className="mt-8 w-full"
                     >
                       <div
-                        className="mx-auto w-[85%] text-center px-6 py-3 rounded-md bg-[#5b56ff] text-white font-semibold text-lg"
+                        className="mx-auto w-[85%] text-center px-6 py-3 rounded-md bg-[#2c487c] text-white font-semibold text-lg"
                         role="button"
                       >
                         RÉSUMÉ
